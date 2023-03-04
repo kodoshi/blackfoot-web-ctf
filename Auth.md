@@ -93,4 +93,9 @@ By reversing the XOR operation (`3c09431745...` into `Th1s_1s_@_x0r_k3y_l0l!`), 
 
 #### Screenshots
 
+![alt text](https://github.com/kodoshi/blackfoot-web-ctf/blob/main/images/auth_50.png?raw=true)
+![alt text](https://github.com/kodoshi/blackfoot-web-ctf/blob/main/images/auth_100.png?raw=true)
+![alt text](https://github.com/kodoshi/blackfoot-web-ctf/blob/main/images/auth_200.png?raw=true)
+
+
 #### Resources

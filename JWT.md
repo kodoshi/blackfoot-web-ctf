@@ -24,5 +24,8 @@ On a previous CTF I encountered buggy Node.js code that signed tokens assymetric
 With this modified token, we can replay an old request and get the flag.
 
 #### Screenshots
+![alt text](https://github.com/kodoshi/blackfoot-web-ctf/blob/main/images/mythique_1.png?raw=true)
+![alt text](https://github.com/kodoshi/blackfoot-web-ctf/blob/main/images/mythique_2_1.png?raw=true)
+![alt text](https://github.com/kodoshi/blackfoot-web-ctf/blob/main/images/mythique_2_2.png?raw=true)
 
 #### Resources

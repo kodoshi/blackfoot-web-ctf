@@ -64,5 +64,8 @@ If encrypted_hash matches the current hash being tested, the script updates star
 Once all hashes have been tested, the script prints the the rebuilt flag itself.
 
 #### Screenshots
+![alt text](https://github.com/kodoshi/blackfoot-web-ctf/blob/main/images/graphql_0.png?raw=true)
+![alt text](https://github.com/kodoshi/blackfoot-web-ctf/blob/main/images/graphql_1.png?raw=true)
+![alt text](https://github.com/kodoshi/blackfoot-web-ctf/blob/main/images/graphql_2.png?raw=true)
 
 #### Resources

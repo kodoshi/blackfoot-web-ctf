@@ -17,6 +17,7 @@ By adding `"%20HTTP/1.1%0ACookie:GOSESSION="` and going to the secret page, we g
 
 
 #### Screenshots
+![alt text](https://github.com/kodoshi/blackfoot-web-ctf/blob/main/images/ssrf_1.png?raw=true)
 
 #### Resources
  - https://www.synacktiv.com/en/publications/fic2020-prequals-ctf-write-up.html

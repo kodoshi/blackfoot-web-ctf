@@ -19,6 +19,8 @@ This challenge is a simple LFI challenge. The server is vulnerable to LFI, and t
 ### Solution
 
 Here we would have to use null byte `%00` to bypass the .php suffix file filter, but still cant access the flag.
+
+
 #### Screenshots
 
 #### Resources

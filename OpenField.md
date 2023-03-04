@@ -15,6 +15,14 @@ An outdated Wordpress 4.2 installation that is vulnerable to multiple XSS and us
  - CWE-548, Delete Plugin Path Traversal/Arbitrary File Deletion: As Admin, by going to the Plugin management system, we have options to delete entries, which takes us to a screen with a special button that lets us visualize which physical files will be deleted from the hard drive as a result of removing the plugin. This mechanism can be exploited by understanding that the file path is given in the url of the page, thus changed easily from something like plugin_file.php to `./../../../../`. The full example would be `/wp-admin/plugins.php?action=delete-selected&checked%5B0%5D=<WHATEVER_FILES_WE_WANT_HERE>&plugin_status=all&paged=1&s&_wpnonce=25c604f1f7`
 
 #### Screenshots
+![alt text](https://github.com/kodoshi/blackfoot-web-ctf/blob/main/images/openfield_1.png?raw=true)
+![alt text](https://github.com/kodoshi/blackfoot-web-ctf/blob/main/images/openfield_2.png?raw=true)
+![alt text](https://github.com/kodoshi/blackfoot-web-ctf/blob/main/images/openfield_3.png?raw=true)
+![alt text](https://github.com/kodoshi/blackfoot-web-ctf/blob/main/images/openfield_4.png?raw=true)
+![alt text](https://github.com/kodoshi/blackfoot-web-ctf/blob/main/images/openfield_5.png?raw=true)
+![alt text](https://github.com/kodoshi/blackfoot-web-ctf/blob/main/images/openfield_6.png?raw=true)
+![alt text](https://github.com/kodoshi/blackfoot-web-ctf/blob/main/images/openfield_7.png?raw=true)
+![alt text](https://github.com/kodoshi/blackfoot-web-ctf/blob/main/images/openfield_8.png?raw=true)
 
 #### Resources
  - https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2015-3440

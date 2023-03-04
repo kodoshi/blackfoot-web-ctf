@@ -46,6 +46,9 @@ The flag is now in the response.
 
 #### Screenshots
 
+![alt text](https://github.com/kodoshi/blackfoot-web-ctf/blob/main/images/scriptkidding_1.png?raw=true)
+![alt text](https://github.com/kodoshi/blackfoot-web-ctf/blob/main/images/scriptkidding_2.png?raw=true)
+
 #### Resources
  - https://security.stackexchange.com/questions/184152/trying-to-understand-what-this-php-malware-does
 
