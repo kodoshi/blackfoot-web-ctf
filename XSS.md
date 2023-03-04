@@ -36,6 +36,8 @@ In conclusion, I think we got pretty close to solving it without actually gettin
 
 
 #### Screenshots
+![alt text](https://github.com/kodoshi/blackfoot-web-ctf/blob/main/images/xss_0.png?raw=true)
+![alt text](https://github.com/kodoshi/blackfoot-web-ctf/blob/main/images/xss_1.png?raw=true)
 
 #### Resources
  - https://www.pipedream.com/

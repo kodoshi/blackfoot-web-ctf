@@ -32,10 +32,15 @@ Same solution as SSTI1 and SSTI2, but with a different flag location, ```./getFl
 
 ### Description
 
-This challenge is a bit more complex than the previous ones. We can see that the website is using a template engine called Jinja2, and that the flag is located in the ```/flag``` directory.
+This challenge is a bit more complex than the previous ones. We can see that the website is using a template engine called Jinja2, which is vulnerable to SSTI.
 
 #### Screenshots
-
+![alt text](https://github.com/kodoshi/blackfoot-web-ctf/blob/main/images/ssti_1.png?raw=true)
+![alt text](https://github.com/kodoshi/blackfoot-web-ctf/blob/main/images/ssti_2.png?raw=true)
+![alt text](https://github.com/kodoshi/blackfoot-web-ctf/blob/main/images/ssti_3.png?raw=true)
+![alt text](https://github.com/kodoshi/blackfoot-web-ctf/blob/main/images/ssti_4.png?raw=true)
+![alt text](https://github.com/kodoshi/blackfoot-web-ctf/blob/main/images/ssti_5.png?raw=true)
+![alt text](https://github.com/kodoshi/blackfoot-web-ctf/blob/main/images/ssti_6.png?raw=true)
 
 #### Resources
  - https://github.com/epinna/tplmap
