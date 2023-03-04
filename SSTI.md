@@ -33,6 +33,8 @@ Same solution as SSTI1 and SSTI2, but with a different flag location, ```./getFl
 ### Description
 
 This challenge is a bit more complex than the previous ones. We can see that the website is using a template engine called Jinja2, which is vulnerable to SSTI.
+Following advanced exploitation techniques, we tried to exploit jinja2 templates to upload a full payload that would allow revshell and rce.
+Multiple payloads were tried, but none of them worked. I even provisioned some AWS resources for a public-facing Kali VM, since so far I tried to port-forward myself with ngrok, but it didn't work either.
 
 #### Screenshots
 ![alt text](https://github.com/kodoshi/blackfoot-web-ctf/blob/main/images/ssti_1.png?raw=true)
