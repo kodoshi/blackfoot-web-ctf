@@ -47,3 +47,4 @@ Multiple payloads were tried, but none of them worked. I even provisioned some A
 #### Resources
  - https://github.com/epinna/tplmap
  - https://book.hacktricks.xyz/pentesting-web/ssti-server-side-template-injection
+ - https://www.onsecurity.io/blog/server-side-template-injection-with-jinja2/
