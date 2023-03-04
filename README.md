@@ -1,8 +1,23 @@
 # Epitech CTF Writeup Project
 
-This is a collection of writeups for various CTF (Capture The Flag) challenges that I have completed during the Web Security module. The challenges are divided into categories, with each category having its own file and screenshots. The purpose of this project is to document my thought process, methodology, and solutions for the challenges, and to serve as a resource for future attempts.
+This is a collection of writeups for various CTF (Capture The Flag) challenges that we have completed during the Epitech Web Security module (conducted during February/March 2023). The challenges are divided into categories, with each category having its own files, explanator and screenshots. The purpose of this project is to document our thought process, methodology, and solutions for the challenges, and to serve as a resource for future attempts.
 
-## Tools Used
+## Categories
+The following categories are included in this project:
+ - [AUTH](Auth.md)
+ - [GRAPHQL](GraphQL.md)
+ - [JS](JS.md)
+ - [JWT](JWT.md)
+ - [LFI](LFI.md)
+ - [OBFUSCATION](Obfuscation.md)
+ - [OPENFIELD](OpenField.md)
+ - [SQLi](SQLi.md)
+ - [SSRF](SSRF.md)
+ - [SSTI](SSTI.md)
+ - [XSS](XSS.md)
+ - [XXE](XXE.md)
+
+### Tools Used
 The following tools were used throughout this project:
 
  - Ngrok: A tool for creating secure tunnels to localhost.
@@ -16,7 +31,7 @@ The following tools were used throughout this project:
  - Chrome DevTools: A set of web developer tools built into the Google Chrome browser.
  - GitHub Aux Tools and Scripts: Various open-source tools and scripts,to be used for various purposes. Specifics are found in the individual writeups.
 
-## Usage
+### Usage
 To view the writeups, simply navigate to the relevant category file and select the challenge you are interested in. Each writeup includes a description of the challenge, the methodology used to solve it, and screenshots to illustrate the process.
 
 ### Credits
